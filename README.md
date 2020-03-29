@@ -1,11 +1,11 @@
 # **Sistema de información sobre la ocupación de buses del transporte publico.**
 
-In this work, we implement and intelligent system to count the number of people getting on in a bus. 
+In this work, we implement an intelligent system to count the number of people getting on in a bus. 
 
-
-## Getting Started
-
-You can find an initial video at [test_v1](https://gitlab.com/IsRaTiAl/v4c/-/blob/master/videos/video_metro.avi)
+## Update March 28, 2020 21:20
+After 5 hours of work, the team V4A achieved the following results:
+- We reviewed several state-of-the-art projects. 
+- We implemented a person recognition system, see the [video](https://gitlab.com/IsRaTiAl/v4c/-/blob/master/videos/video_metro.avi).
 
 ## Tools
 This project has been build using the following tools:
@@ -13,7 +13,6 @@ This project has been build using the following tools:
 OpenCV
 Tensorflow 2.x
 Keras
-
 ```
 
 ## Resources
