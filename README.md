@@ -22,7 +22,7 @@ Keras
 ## Resources
 
 * [PCDS](https://freesoft.dev/program/128588362) - The dataset used
-* [Darkflow](https://github. com/thtrieu/darkflow) - Yolo implementation
+* [Darkflow](https://github.com/thtrieu/darkflow) - Yolov2 implementation in Python
 * GoogleColab - The virtual machine used in the experiments 
 
 ## Acknowledgments
