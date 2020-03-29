@@ -1,22 +1,11 @@
-# Cross-View Gait Recognition Based on U-Net
+# Sistema de información sobre la ocupación de buses del transporte publico.
 
-In this work, we propose a method of gait recognition using a conditional generative model to generate view-invariant features and overcome appearance variations due to changes of clothing, carrying conditions, and view angle. 
+In this work, we propose a method of recognition using a conditional generative model to generate view-invariant features and overcome appearance variations due to changes of clothing, carrying conditions, and view angle. 
 
-<figure>
-<center>
-<img src='https://gitlab.com/IsRaTiAl/gait/raw/master/Images/Subject120OriginalGEI.png'/>
-<figcaption>Original GEI representations</figcaption></center>
-</figure>
-
-<figure>
-<center>
-<img src='https://gitlab.com/IsRaTiAl/gait/raw/master/Images/Subject120GeneratedGEI.png'/>
-<figcaption>Generated GEI representations</figcaption></center>
-</figure>
 
 ## Getting Started
 
-You can find the code at [Notebook](https://gitlab.com/IsRaTiAl/gait/blob/master/Gait_U-Net_.ipynb)
+You can find an initial code at [Notebook](https://gitlab.com/IsRaTiAl/gait/blob/master/Gait_U-Net_.ipynb)
 
 ### Prerequisites
 
@@ -24,6 +13,7 @@ You can find the code at [Notebook](https://gitlab.com/IsRaTiAl/gait/blob/master
 OpenCV
 Tensorflow 2.x
 Keras
+OpenCv
 ```
 
 ## Built With
