@@ -13,17 +13,16 @@ You can find an initial code at [Notebook](https://gitlab.com/IsRaTiAl/gait/blob
 OpenCV
 Tensorflow 2.x
 Keras
-OpenCv
+
 ```
 
 ## Built With
 
-* [CASIA](http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp) - The dataset used
-* [Pix2Pix](https://www.tensorflow.org/tutorials/generative/pix2pix) - Based on
+* [PCDS](https://freesoft.dev/program/128588362) - The dataset used
 * GoogleColab - The virtual machine used in the experiments 
 
 ## Acknowledgments
 
 This work has been inspired on: 
-* [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
-* [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+* [Benchmark data and method for real-time people counting in cluttered scenes using depth sensors](https://arxiv.org/abs/1804.04339)
+* [People Detection and Finding Attractive Areas by the use of Movement Detection Analysis and Deep Learning Approach](https://www.sciencedirect.com/science/article/pii/S1877050919311287)
