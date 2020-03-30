@@ -15,6 +15,15 @@ After 5 hours of work, the team V4A achieved the following results:
 - A draf of the presentation has been prepared, see the [presentation](https://gitlab.com/IsRaTiAl/v4c/-/blob/master/Slides/Sistema_de_informaci%C3%B3n_sobre_la_ocupaci%C3%B3n_de_buses.pdf) 
 - A simple but effective design has been created, it has the purpose to embed a JetsonNano/Raspberry, a USB_camera, and a battery. 
 ![Image description](https://gitlab.com/IsRaTiAl/v4c/-/raw/master/Designs/Design1.jpeg)
+
+## Update March 30, 2020 19:00
+- We implemented a person recognition, tracking and counting.
+
+
+<p align="center">
+  <img src="https://gitlab.com/IsRaTiAl/v4c/-/raw/master/videos/gifs/track+countv1.gif">
+</p>
+
 ## Tools
 This project has been build using the following tools:
 ```
@@ -28,9 +37,11 @@ SolidWorks
 
 * [PCDS](https://freesoft.dev/program/128588362) - The dataset used
 * [Darkflow](https://github.com/thtrieu/darkflow) - Yolov2 implementation in Python
+* [Object Detection and Tracking](https://github.com/yehengchen/Object-Detection-and-Tracking) - Tracking 
 * GoogleColab - The virtual machine used in the experiments 
 
 ## Acknowledgments
 This work has been inspired on: 
 * [Benchmark data and method for real-time people counting in cluttered scenes using depth sensors](https://arxiv.org/abs/1804.04339)
 * [People Detection and Finding Attractive Areas by the use of Movement Detection Analysis and Deep Learning Approach](https://www.sciencedirect.com/science/article/pii/S1877050919311287)
+* [Simple Online and Realtime Tracking](https://arxiv.org/abs/1602.00763)
