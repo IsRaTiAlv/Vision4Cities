@@ -11,12 +11,17 @@ After 5 hours of work, the team V4A achieved the following results:
 - We reviewed some tracking algorithms and implemented a basic [code](https://gitlab.com/IsRaTiAl/v4c/-/blob/master/videos/tracking.py)
 - We implemented a person recognition system (see the [code](https://gitlab.com/IsRaTiAl/v4c/-/blob/master/notebooks/yolo.ipynb)) and processed the following [video](https://gitlab.com/IsRaTiAl/v4c/-/blob/master/video_metro2.avi), 
 
+## Update March 30, 2020 10:00
+- A draf of the presentation has been prepared, see the [presentation](https://gitlab.com/IsRaTiAl/v4c/-/blob/master/Slides/Sistema_de_informaci%C3%B3n_sobre_la_ocupaci%C3%B3n_de_buses.pdf) 
+- A simple but effective design has been created, it has the purpose to embed a JetsonNano/Raspberry, a USB_camera, and a battery. 
+![Image description](https://gitlab.com/IsRaTiAl/v4c/-/raw/master/Design1.jpeg)
 ## Tools
 This project has been build using the following tools:
 ```
 OpenCV
 Tensorflow 1.x
 Keras
+SolidWorks
 ```
 
 ## Resources
