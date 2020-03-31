@@ -1,4 +1,11 @@
 # **SISTEMA DE INFORMACIÓN SOBRE LA OCUPACIÓN DE BUSES DEL TRANSPORTE PUBLICO.**
+El proyecto se enfoca en el desarrollo de un dispositivo inteligente, capaz de determinar el grado de ocupación de los buses de transporte público mediante el uso de técnicas de inteligencia artificial. 
+
+Principalmente, el proyecto está compuesto por:
+
+<p align="center">
+  <img src="https://gitlab.com/IsRaTiAl/v4c/-/raw/master/videos/intro.PNG">
+</p>
 
 # Motivación
 
