@@ -28,7 +28,7 @@ Se desarrollo una aplicación web.
 <p align="center"> <img src="https://gitlab.com/IsRaTiAl/v4c/-/raw/master/videos/gifs/app_webv1.gif"></p>
 Asimismo, una app para moviles el cual será para los usuarios.
 <p align="center">
-  <img WIDTH="100" HEIGHT="200" src="https://gitlab.com/IsRaTiAl/v4c/-/raw/master/videos/gifs/app_movilv1.gif">
+  <img WIDTH="200" HEIGHT="400" src="https://gitlab.com/IsRaTiAl/v4c/-/raw/master/videos/gifs/app_movilv1.gif">
 </p>
 El seguimiento y conteo de personas fue probado en situaciones con variaciones en luz y velocidad de las personas en abordaje y desembarco.
 <p align="center">
