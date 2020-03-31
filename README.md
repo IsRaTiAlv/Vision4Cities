@@ -8,6 +8,10 @@ Principalmente, el proyecto está compuesto por:
 </p>
 
 # Motivación
+Debido a la necesidad de optimizar los recursos tanto de la transitabilidad de los buses, como de la gestión de la movilidad de pasajeros, es que nuestra ciudad necesita un sistema de este tipo. Una mala gestión en la transitabilidad de buses puede causar un daño directo al medio ambiente. Sin contar el desperdicio de tiempo para los usuarios. 
+<p align="center">
+  <img src="https://gitlab.com/IsRaTiAl/v4c/-/raw/master/videos/gifs/bus_animation.gif">
+</p>
 
 # Desarrollo
 ### Actualización 28-03-2020 21:20
@@ -57,7 +61,13 @@ SolidWorks
 * [Object Detection and Tracking](https://github.com/yehengchen/Object-Detection-and-Tracking) - Algoritmo de tracking implementado 
 * GoogleColab - La máquina virtual utilizada en los experimentos.
 
+## Funcionalidades mas importantes
+Detección de personas
+Aplicación web
+Aplicación movil
 ## Instalación
+Descarlar el repositorio y correr el [notebook](https://gitlab.com/IsRaTiAl/v4c/-/blob/master/notebooks/yolo.ipynb)
+
 ## Creditos
 * Israel Raul Tiñini Alvarez
 * Carlos Helsner Menacho Guerra
