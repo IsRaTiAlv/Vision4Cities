@@ -63,10 +63,20 @@ SolidWorks
 
 ## Funcionalidades mas importantes
 Detección de personas
+<p align="center">
+  <img src="https://gitlab.com/IsRaTiAl/v4c/-/raw/master/videos/gifs/first_detect.gif">
+</p>
 Aplicación web
+<p align="center">
+  <img src="https://gitlab.com/IsRaTiAl/v4c/-/raw/master/videos/gifs/app.gif">
+</p>
 Aplicación movil
+<p align="center">
+  <img src="https://gitlab.com/IsRaTiAl/v4c/-/raw/master/videos/gifs/sammy.gif">
+</p>
+
 ## Instalación
-Descarlar el repositorio y correr el [notebook](https://gitlab.com/IsRaTiAl/v4c/-/blob/master/notebooks/yolo.ipynb)
+Descarlar el repositorio y correr el [notebook](https://gitlab.com/IsRaTiAl/v4c/-/blob/master/notebooks/yolo (1).ipynb)
 
 ## Creditos
 * Israel Raul Tiñini Alvarez
